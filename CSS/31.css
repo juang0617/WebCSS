@@ -1,0 +1,20 @@
+#fondo {
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+    background:#AA445F;
+}
+#h1 {
+    width: 100px;
+    height: 200px;
+    background:#E38F66;
+    margin: 0px 0px 0px 217px;
+    border-radius:0 100px 100px 0;
+} 
+#h2 {
+    width: 100px;
+    height: 200px;
+    background:#F7EC7D;
+    margin:-200px 0px 0px 67px;
+    border-radius:100px 0 0 100px;
+}

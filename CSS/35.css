@@ -1,0 +1,26 @@
+#fondo {
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+    background:#293462;
+}
+#h1 {
+    width: 100px;
+    height: 150px;
+    margin: 0px 0px 0px 142px;
+    background:#FFF1C1;
+    border-radius:51px 53px 20px 20px;
+}
+#h2 {
+    width: 30px;
+    height: 10px;
+    background:#A64942;
+    margin: 0px 0px 0px 177px;
+}
+#h3 {
+    width: 30px;
+    height: 40px;
+    background:#FE5F55;
+    margin: 0px 0px 0px 177px;
+    border-radius:0 0 10px 10px;
+}

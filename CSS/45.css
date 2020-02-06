@@ -1,0 +1,45 @@
+#fondo {
+    width: 400px;
+    height: 300px;
+    background:#1A4341;
+}
+#h1 {
+    width: 270px;
+    height: 211px;
+    background:#F3AC3C;
+    margin:-9px 0px 0px 57px;
+}
+#h2 {
+    width: 210px;
+    height: 180px;
+    background:#1A4341;
+    margin:-210px 0px 0px 87px;
+    position: relative;
+} 
+#h3 {
+    width: 150px;
+    height: 170px;
+    background:#998235;
+    margin:-200px 0px 0px 117px;
+    position: relative;
+}
+#h4 {
+    width: 90px;
+    height: 120px;
+    background:#1A4341;
+    margin:-150px 0px 0px 147px;
+    position: relative;
+} 
+#h5 {
+    width: 270px;
+    height: 30px;
+    background:#998235;
+    margin: 120px 0px 0px 57px;
+}
+#h6 {
+    width: 30px;
+    height: 300px;
+    background:#F3AC3C;
+    margin:-270px 0px 0px 177px;
+    position: relative;
+}

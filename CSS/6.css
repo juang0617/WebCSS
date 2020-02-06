@@ -1,0 +1,29 @@
+#fondo {
+    width: 400px;
+    height: 300px;
+    background:#E3516E;
+} 
+#h1 {
+    width: 100px;
+    height: 100px;
+    background: #51B5A9;
+    border-radius: 100% 0 0 0;
+    position: absolute;
+    margin: 42px 0px 0px 92px;
+}
+#h2 {
+    width: 100px;
+    height: 100px;
+    background: #FADE8B;
+    border-radius: 0 100% 0 0;
+    position: absolute;
+    margin: 42px 0px 0px 192px;   
+}
+#h3 {
+    width: 100px;
+    height: 100px;
+    background: #F7F3D7;
+    border-radius: 0 0 0 100%;
+    position: absolute;
+    margin: 142px 0px 0px 92px;   
+}

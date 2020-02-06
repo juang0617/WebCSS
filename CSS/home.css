@@ -1,0 +1,13 @@
+body {
+    background-color: #21D4FD;
+    background-image: linear-gradient(146deg, #21D4FD 0%, #B721FF 100%);
+}
+
+#fotos {
+    width: 600px;
+    height: 500px;
+}
+#fotos2 {
+    width: 240px;
+    height: 427px;
+}
