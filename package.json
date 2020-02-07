@@ -1,0 +1,15 @@
+{
+  "name": "pagina_css",
+  "version": "1.0.0",
+  "description": "Pagina web para el CSS Battle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
